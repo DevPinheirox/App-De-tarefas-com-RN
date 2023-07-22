@@ -1,4 +1,4 @@
-# 1 Lista de Tarefas - Aplicativo Mobile
+# Lista de Tarefas - Aplicativo Mobile
 
 ## Descrição
 
